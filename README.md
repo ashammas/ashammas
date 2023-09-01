@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashammas
-- 👀 I’m interested in Python and Programming
+- 👀 I’m interested in Python and Programming >>> Check out my Replit for some projects!
 - 🌱 I’m currently learning Python, HTML, CSS, React, Boostrap, NodeJs
 - 💞️ I’m looking to collaborate on any games similar to Sims 4!
 - 📫 How to reach me LinkedIn or my email!
