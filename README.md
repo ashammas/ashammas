@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Aseel-lightblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aseelshammas/)](https://www.linkedin.com/in/aseelshammas/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aseel-lightpink)](https://stackoverflow.com/users/22484655/aseel-shammas)
 
-Hello there!<br> I'm <strong> Aseel Romolia. </strong>A<strong> Full Stack web developer</strong> having specialization in <strong>back end & front end development.</strong> I'm fresher, having multiple skills are quick learner, team player, deadline driven and can work under pressure. <strong> Web Development</strong>  having strong <strong>HTML5 & Python</strong> skills. I also have front end skills in javaScript and responsive. My ultimate goals are
+Hello there!<br> I'm <strong> Aseel Shammas. </strong>A<strong> Full Stack web developer</strong> having specialization in <strong>back end & front end development.</strong> I'm fresher, having multiple skills are quick learner, team player, deadline driven and can work under pressure. <strong> Web Development</strong>  having strong <strong>HTML5 & Python</strong> skills. I also have front end skills in javaScript and responsive. My ultimate goals are
 to learn all the technical languages and tools listed below.🏆🏆🏆 I am super interested in analyzing and becoming a technical project manager with Full Stack Web Development Skills!
 
 
